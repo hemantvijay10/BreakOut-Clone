@@ -1,0 +1,72 @@
+BreakOut Clone Game
+Author: Hemant Vijay
+Last Updated: 4-Nov-2025
+
+================================================================================
+PROJECT CREDITS
+================================================================================
+
+This project is part of the assignment for Angela Yu's course:
+"100 Days of Code: The Complete Python Pro Bootcamp"
+
+Course URL: https://www.udemy.com/course/100-days-of-code/
+Practice Assignment URL: https://www.udemy.com/course/100-days-of-code/learn/practice/1251140#overview
+
+Instructor: Angela Yu
+Student/Developer: Hemant Vijay
+
+================================================================================
+THIRD-PARTY LIBRARIES AND TOOLS
+================================================================================
+
+This project uses the following free and open-source libraries:
+
+1. Python Turtle Graphics
+   - Built-in Python library for graphics and game development
+   - Part of the Python Standard Library
+   - License: Python Software Foundation License
+   - Website: https://docs.python.org/3/library/turtle.html
+
+2. Python Standard Library (time module)
+   - Built-in Python library for time-related functions
+   - Part of the Python Standard Library
+   - License: Python Software Foundation License
+   - Website: https://docs.python.org/3/library/time.html
+
+================================================================================
+COPYRIGHT AND LICENSE
+================================================================================
+
+Copyright (c) 2025 Hemant Vijay
+
+This project is created for educational purposes as part of the
+"100 Days of Code: The Complete Python Pro Bootcamp" course by Angela Yu.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+ACKNOWLEDGMENTS
+================================================================================
+
+Special thanks to:
+- Angela Yu for creating the comprehensive Python course
+- The Python Software Foundation for maintaining Python and its standard library
+- The original creators of the Breakout arcade game (Atari, 1976)
+
+================================================================================
